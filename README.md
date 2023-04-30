@@ -4,7 +4,7 @@ This is a simple password generator web application built with HTML, CSS, and Ja
 
 ## Live Preview
 
-<a href="https://mdashraful305.github.io/Password-Generator">https://mdashraful305.github.io/Password-Generator/</a>
+<a href="https://mdashraful305.github.io/Password-Generator" targer="_blank">https://mdashraful305.github.io/Password-Generator/</a>
 
 
 ## Installation
