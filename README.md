@@ -3,9 +3,9 @@
 This is a simple password generator web application built with HTML, CSS, and JavaScript. It allows the user to generate a random password of a specified length and with selected character types (uppercase letters, lowercase letters, numbers, and symbols). 
 
 ## Live Preview
-
-<a href="https://mdashraful305.github.io/Password-Generator" target="_blank">https://mdashraful305.github.io/Password-Generator/</a>
-
+```bash
+https://mdashraful305.github.io/Password-Generator/
+```
 
 ## Installation
 
