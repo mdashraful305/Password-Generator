@@ -20,11 +20,3 @@ To copy the generated password to the clipboard, click the "Copy" button.
 ## Development
 
 This project was developed using HTML, CSS, and JavaScript. The password generation logic is implemented in the `generatePassword` function in the `script.js` file. The `copyToClipboard` function handles copying the generated password to the clipboard.
-
-## Credits
-
-This project was created by [Your Name Here]. It was inspired by [insert inspiration here].
-
-## License
-
-This project is licensed under the [insert license here].
